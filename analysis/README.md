@@ -4,7 +4,7 @@ These are the scripts and files that contain the math and processing done for a 
 
 I like keeping my files organized by program type and include a few example folders.
 
-* [**R**](R/README.html) R scripts would go here.
-* [**stata**](stata/README.html) Stata scripts would go here.
-* [**excel**](excel/README.html) Excel workbooks would go here.
+* [**R**](R/README) R scripts would go here.
+* [**stata**](stata/README) Stata scripts would go here.
+* [**excel**](excel/README) Excel workbooks would go here.
 
